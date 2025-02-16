@@ -1,4 +1,3 @@
-Here's a README for your **MainGateGuard** app. You can modify it as needed:  
 
 ---
 
